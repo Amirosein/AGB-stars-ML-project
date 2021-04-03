@@ -7,4 +7,4 @@ The raw data which is different classes' data files are provided in the [main](h
 
 * Moreover, the first Milestone's **report** and its **(ipynb) code file** are provided in [first Milestone](https://github.com/Churchiill/AGB-stars-ML-project/tree/main/Milestone1).
 
-* One Can also download firsr milestone files all together by [Milestone_1.zip](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1_data.rar).
+* One Can also download first milestone files all together by [Milestone_1.zip](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1_data.rar).
