@@ -11,5 +11,3 @@ The raw data which is different classes' data files are provided in the [main](h
 
 * One Can also download first milestone files all together by [Milestone_1.zip](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1_data.rar).
 
-<h1>view code</h1>
-you can view mobin's edited code from here: 
