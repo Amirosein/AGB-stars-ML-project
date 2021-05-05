@@ -17,4 +17,5 @@ The raw data which is different classes' data files are provided in the [main](h
 
 <h1>Second Milestone</h1>
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_project_2.ipynb)
 * In progress...
