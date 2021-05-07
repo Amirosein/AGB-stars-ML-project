@@ -19,3 +19,51 @@ The raw data which is different classes' data files are provided in the [main](h
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb)
 * In progress...
+
+<h1>Links Table</h1>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Milestone</th>
+    <th>Report</th>
+    <th>Notebook(s)</th>
+  </tr>
+  <tr>
+    <td>Data</td>
+    <td>[Phase_1](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf)</td>
+    <td>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/AGB_Project_1.ipynb)</td>
+  </tr>
+  <tr>
+    <td>Traditional ML Techniques</td>
+    <td>[Phase_1](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/report_phase_2.pdf)</td>
+    <td>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb)</td>
+  </tr>
+</table>
+
+</body>
+</html>
