@@ -37,7 +37,8 @@ The raw data which is different classes' data files are provided in the [main](h
   <tr>
     <td>Traditional ML Techniques</td>
     <td><p><a href="https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/report_phase_2.pdf">Report_2</a></p></td>
-    <td><p><a href="https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb">[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]</a></p></td>
+    <td><a href="https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
   </tr>
 </table>
 
