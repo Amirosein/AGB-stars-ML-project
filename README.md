@@ -40,5 +40,3 @@ The raw data which is different classes' data files are provided in the [main](h
   </tr>
 </table>
 
-</body>
-</html>
