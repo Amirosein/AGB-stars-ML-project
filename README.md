@@ -20,7 +20,7 @@ The raw data which is different classes' data files are provided in the [main](h
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb)
 * In progress...
 
-<h1>Links Table</h1>
+
 
 <!DOCTYPE html>
 <html>
@@ -45,7 +45,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h1>Links Table</h1>
 
 <table>
   <tr>
