@@ -18,7 +18,6 @@ The raw data which is different classes' data files are provided in the [main](h
 * In progress...
 
 
-<h1>Links Table</h1>
 
 <table>
   <tr>
