@@ -1,7 +1,12 @@
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
 # AGB and YSO stars Classification
 
 In this project, we are going to solve a classification problem with 5 classes of **(O-C-S rich) AGBs, Post AGBs and Young Stellar Objects (YSOs)** by their spectroscopy data.
 The raw data which is different classes' data files are provided in the [main](https://github.com/Churchiill/AGB-stars-ML-project/tree/main) separately. 
+
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 <h1>First Milestone</h1> 
 
@@ -17,7 +22,7 @@ The raw data which is different classes' data files are provided in the [main](h
 
 * Applying the traditional techniques (SGD, KNN, SVM, etc.) to the data, Tunning Models and their Evaluation.
 
-
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 <h1></h1>
 
