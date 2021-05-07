@@ -31,12 +31,12 @@ The raw data which is different classes' data files are provided in the [main](h
   </tr>
   <tr>    
     <td>Data</td>
-    <td><p><a href="https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf">Phase_1</a></p></td>
+    <td><p><a href="https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf">Report_1</a></p></td>
     <td><p><a href="https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/AGB_Project_1.ipynb">[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]</a></p></td>
   </tr>
   <tr>
     <td>Traditional ML Techniques</td>
-    <td>[Phase_1](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/report_phase_2.pdf)</td>
+    <td><p><a href="https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/report_phase_2.pdf">Report_2</a></p></td>
     <td>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb)</td>
   </tr>
 </table>
