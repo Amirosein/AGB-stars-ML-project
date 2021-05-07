@@ -55,7 +55,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Data</td>
-    <td>[Phase_1](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf)</td>
+    <td> [Phase_1](https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf) </td>
     <td>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone1/AGB_Project_1.ipynb)</td>
   </tr>
   <tr>
