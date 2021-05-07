@@ -22,7 +22,7 @@ The raw data which is different classes' data files are provided in the [main](h
 
 <table>
   <tr>
-    <th>Milestone</th>
+    <th>Milestones</th>
     <th>Report</th>
     <th>Notebook(s)</th>
   </tr>
