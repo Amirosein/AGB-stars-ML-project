@@ -23,6 +23,12 @@ The raw data which is different classes' data files are provided in the [main](h
 
 <h1></h1>
 
+<h1>Third Milestone</h1>
+
+* Applying a Neural Network model to the data.
+
+<h1></h1>
+
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 <table>
