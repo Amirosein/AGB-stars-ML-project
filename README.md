@@ -21,7 +21,6 @@ The raw data which is different classes' data files are provided in the [main](h
 
 * Applying the traditional techniques (SGD, KNN, SVM, etc.) to the data, Tunning Models and their Evaluation.
 
-<h1></h1>
 
 <h1>Third Milestone</h1>
 
