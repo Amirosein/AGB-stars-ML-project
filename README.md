@@ -50,7 +50,7 @@ The raw data which is different classes' data files are provided in the [main](h
   </tr>
   <tr>
     <td>Neural Networks</td>
-    <td>Report 3</td>
+    <td><p><a href="https://github.com/Churchiill/AGB-stars-ML-project/blob/main/Milestone3/ML_report_3.pdf">Report 3</a></p></td>
     <td><a href="https://colab.research.google.com/github/Churchiill/AGB-stars-ML-project/blob/main/Milestone3/AGB_Project_3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
   </tr>
