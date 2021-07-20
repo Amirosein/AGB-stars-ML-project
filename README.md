@@ -16,19 +16,19 @@ The raw data which is different classes' data files are provided in the [main](h
   </tr>
   <tr>    
     <td>Data</td>
-    <td><p><a href="https://github.com/Amirosein/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf">Report 1</a></p></td>
-    <td><p><a href="https://colab.research.google.com/github/Amirosein/AGB-stars-ML-project/blob/main/Milestone1/AGB_Project_1.ipynb">
+    <td><a href="https://github.com/Amirosein/AGB-stars-ML-project/blob/main/Milestone1/ML_report_1.pdf">Report 1</a></td>
+    <td><a href="https://colab.research.google.com/github/Amirosein/AGB-stars-ML-project/blob/main/Milestone1/AGB_Project_1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
   </tr>
   <tr>
     <td>Traditional ML Techniques</td>
-    <td><p><a href="https://github.com/Amirosein/AGB-stars-ML-project/blob/main/Milestone2/report_phase_2.pdf">Report 2</a></p></td>
+    <td><a href="https://github.com/Amirosein/AGB-stars-ML-project/blob/main/Milestone2/report_phase_2.pdf">Report 2</a></td>
     <td><a href="https://colab.research.google.com/github/Amirosein/AGB-stars-ML-project/blob/main/Milestone2/AGB_Project_2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
   </tr>
   <tr>
     <td>Neural Networks</td>
-    <td><p><a href="https://github.com/Amirosein/AGB-stars-ML-project/blob/main/Milestone3/ML_report_3.pdf">Report 3</a></p></td>
+    <td><a href="https://github.com/Amirosein/AGB-stars-ML-project/blob/main/Milestone3/ML_report_3.pdf">Report 3</a></td>
     <td><a href="https://colab.research.google.com/github/Amirosein/AGB-stars-ML-project/blob/main/Milestone3/AGB_Project_3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
   </tr>
